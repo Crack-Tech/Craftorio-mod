@@ -1,0 +1,10 @@
+ {
+    "name": "Craftorio",
+    "version": "0.0.1",
+    "title": "Craftorio_ALPHA",
+    "author": "Anubis",
+	"factorio_version": "1.0",    
+	"contact": "crack-tech@yandex.ru",
+	"description": "",
+    "dependencies": ["base"]
+}
